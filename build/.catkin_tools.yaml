@@ -1,0 +1,6 @@
+devel_space: /home/umi/ws_moveit/devel
+install: false
+install_space: /home/umi/ws_moveit/install
+profile: default
+source_space: /home/umi/ws_moveit/src
+workspace: /home/umi/ws_moveit
